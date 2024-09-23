@@ -1,3 +1,5 @@
 # Hangman Game
-The famous hangman game made using C++  
-Record of each game is stored in a text file
+- The famous hangman game made using C++ 
+- OOP based
+- Capable of incorporating multiple players 
+- History of entire game recorder
